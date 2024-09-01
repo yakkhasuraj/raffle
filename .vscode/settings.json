@@ -1,0 +1,26 @@
+{
+  // Editor
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.linkedEditing": true,
+  "editor.stickyScroll.enabled": true,
+  "editor.wordWrap": "on",
+  // Files
+  "files.trimTrailingWhitespace": true,
+  // Git
+  "git.autofetch": true,
+  // Language
+  "[solidity]": {
+    "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+  },
+  // Extensions
+  "extensions.ignoreRecommendations": true,
+  "gitlens.telemetry.enabled": false,
+  "solidity.formatter": "forge",
+  "solidity.telemetry": false
+}
